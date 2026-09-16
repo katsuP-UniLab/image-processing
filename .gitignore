@@ -36,3 +36,5 @@ dataset/
 *.pb
 *.pbtxt
 *.pkl
+
+*.xlsx
